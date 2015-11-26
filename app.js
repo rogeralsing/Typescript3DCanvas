@@ -52,6 +52,6 @@
             }
         }, 1);
     };
-    img.src = "/images/phong4.png";
+    img.src = "images/phong4.png";
 })();
 //# sourceMappingURL=app.js.map
